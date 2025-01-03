@@ -1,0 +1,29 @@
+1. IP Addressing
+    - An IP address is a unique identifier assigned to each device connected to a network. It allows devices to communicate with each other.
+
+2. Subnetting
+    - Subnetting is the process of dividing a network into smaller subnetworks. It helps in efficient IP address management and improves network performance.
+
+3. MAC Address
+    - A MAC address is a hardware identifier assigned to network interfaces. It is used for communication within a local network segment.
+
+4. DNS (Domain Name System)
+    - DNS translates human-readable domain names (like www.example.com) into IP addresses that computers use to identify each other on the network.
+
+5. DHCP (Dynamic Host Configuration Protocol)
+    - DHCP is a network management protocol used to automatically assign IP addresses and other network configuration parameters to devices on a network.
+
+6. TCP/IP Model
+    - The TCP/IP model is a set of protocols used to interconnect network devices on the internet. It includes layers such as the application, transport, internet, and network access layers.
+
+7. OSI Model
+    - The OSI model is a conceptual framework used to understand and implement network protocols in seven layers: physical, data link, network, transport, session, presentation, and application.
+
+8. Routing
+    - Routing is the process of selecting paths in a network along which to send network traffic. Routers are devices that forward data packets between networks.
+
+9. Switches and Hubs
+    - Switches and hubs are networking devices used to connect multiple devices on a local network. Switches operate at the data link layer, while hubs operate at the physical layer.
+
+10. Firewalls
+     - Firewalls are security devices that monitor and control incoming and outgoing network traffic based on predetermined security rules. They help protect networks from unauthorized access and cyber threats.
