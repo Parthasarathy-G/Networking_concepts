@@ -1,7 +1,0 @@
-This is a learning plan to build foundational knowledge of key computing, networking, and cloud concepts. It covers essential topics like proxies (forward and reverse), DHCP, and the OSI model to understand how data flows through a network. CDN and edge computing concepts are explored to optimize content delivery and reduce latency. Security aspects include understanding DoS and DDoS attacks to recognize and mitigate threats effectively.
-
-Architectures like single-tier, two-tier, three-tier, N-tier, and microservices are included to grasp different system designs and their use cases. Virtualization and containers are compared to understand resource management, while subnet masking is studied for efficient IP allocation.
-
-Networking basics such as IP addressing, NAT, and CIDR provide a strong foundation, along with practical tools like Ping, Traceroute, Telnet, and SSH for troubleshooting and connectivity checks. Security topics include proxies, VPNs, firewalls, and DMZ configurations to protect and manage networks.
-
-Protocols like HTTP, HTTPS, SSL, and TLS are studied to secure communication over the internet. The fundamentals of computing and networking devices are covered, along with cloud structures like AWS for scalable solutions. Version control systems like Git and GitHub are included to manage code repositories, enable collaboration, and track changes effectively. This learning plan equips you with a comprehensive understanding of these critical topics to apply in real-world scenarios.
