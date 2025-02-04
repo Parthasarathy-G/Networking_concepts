@@ -27,3 +27,18 @@
 
 10. Firewalls
      - Firewalls are security devices that monitor and control incoming and outgoing network traffic based on predetermined security rules. They help protect networks from unauthorized access and cyber threats.
+
+    11. VPN (Virtual Private Network)
+        - A VPN extends a private network across a public network, allowing users to send and receive data as if their devices were directly connected to the private network. It provides security and privacy.
+
+    12. NAT (Network Address Translation)
+        - NAT is a method used to remap one IP address space into another by modifying network address information in the IP header of packets while they are in transit. It helps in conserving global IP addresses and adds a layer of security.
+
+    13. Network Topologies
+        - Network topology refers to the arrangement of different elements (links, nodes, etc.) in a computer network. Common topologies include star, ring, bus, mesh, and hybrid.
+
+    14. Wireless Networking
+        - Wireless networking allows devices to connect to a network without physical cables. It uses radio waves to provide connectivity and includes standards such as Wi-Fi, Bluetooth, and cellular networks.
+
+    15. Network Security
+        - Network security involves measures to protect the integrity, confidentiality, and availability of data and resources on a network. It includes practices such as encryption, intrusion detection systems, and secure access controls.
